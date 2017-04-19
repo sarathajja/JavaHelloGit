@@ -5,6 +5,7 @@ public class HelloGit {
 		// TODO Auto-generated method stub
 		//add comments
 		System.out.println("Hello Git from java");
+		System.out.println("second message from java");
 	}
 
 }
